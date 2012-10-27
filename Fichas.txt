@@ -7,6 +7,8 @@ Vitalidade = HP +2 por ponto. Defesa +.3 por ponto. /// d20
 Agilidade = Dano a Distancia + 0.5 por ponto. Esquiva +1 por ponto. /// d20
 Inteligencia = Dano magico +0.5 por ponto(+2 para Skill). Mana +3 por ponto. /// d20
 
+OU USAR SISTEMA DE MAGNITUDE. Manter apenas Vitalidade.
+
 Atributos RPGísticos
 
 Tolerancia: Sua tolerancia com os outros. Menos tolerancia = Mais mal humor. /// d20
@@ -28,9 +30,13 @@ Definidas pelo Mestre, julgamento dos jogadores.
 
 Classes
 
-Olhar site do WoW.
+DnD, Middle Earth ou WoW.
 
 
 Skills 
 
-Olhar site do WoW(É isso mesmo).
+DnD, WoW ou Middle Earth. OU A CRITÉRIO DA MESA/MESTRE.
+
+Raças
+
+DnD, Middle Earth ou WoW.
