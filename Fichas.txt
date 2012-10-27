@@ -1,0 +1,29 @@
+Atributos.
+
+Força, Vitalidade, Agilidade e Inteligencia.
+
+Força = Dano Corpo-a-Corpo +.5 por ponto. Defesa +.2 por ponto.
+Vitalidade = HP +2 por ponto. Defesa +.3 por ponto.
+Agilidade = Dano a Distancia + 0.5 por ponto. Esquiva +1 por ponto.
+Inteligencia = Dano magico +0.5 por ponto(+2 para Skill). Mana +3 por ponto.
+
+
+Mecanicas
+
+Armor: Cada ponto reduz 5 de dano.
+Esquiva: +0.5(Para cada 10 pontos) no dado de esquiva.
+
+Armadura
+Definida pelo Mestre, julgamento dos jogadores.
+Armas
+Definidas pelo Mestre, julgamento dos jogadores.
+
+
+Classes
+
+Olhar site do WoW.
+
+
+Skills 
+
+Olhar site do WoW(É isso mesmo).
