@@ -2,15 +2,22 @@ Atributos.
 
 Força, Vitalidade, Agilidade e Inteligencia.
 
-Força = Dano Corpo-a-Corpo +.5 por ponto. Defesa +.2 por ponto.
-Vitalidade = HP +2 por ponto. Defesa +.3 por ponto.
-Agilidade = Dano a Distancia + 0.5 por ponto. Esquiva +1 por ponto.
-Inteligencia = Dano magico +0.5 por ponto(+2 para Skill). Mana +3 por ponto.
+Força = Dano Corpo-a-Corpo +.5 por ponto. Defesa +.2 por ponto. /// d20
+Vitalidade = HP +2 por ponto. Defesa +.3 por ponto. /// d20
+Agilidade = Dano a Distancia + 0.5 por ponto. Esquiva +1 por ponto. /// d20
+Inteligencia = Dano magico +0.5 por ponto(+2 para Skill). Mana +3 por ponto. /// d20
+
+Atributos RPGísticos
+
+Tolerancia: Sua tolerancia com os outros. Menos tolerancia = Mais mal humor. /// d20
+Compaixão: Nome auto explicativo. /// d20
+Fé: Nome auto explicativo. /// d20
+Gordice: Nome Auto Explicativo. /// d20
 
 
 Mecanicas
 
-Armor: Cada ponto reduz 5 de dano.
+Armor: Cada ponto reduz 0.5 de dano.
 Esquiva: +0.5(Para cada 10 pontos) no dado de esquiva.
 
 Armadura
